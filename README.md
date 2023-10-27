@@ -1,7 +1,7 @@
 # Pig-game
 
-(./pig-game-1.png)
+![Screenshot pig-game](./pig-game-1.png)
 
-(./pig-game-2.png)
+![Screenshot pig-game](./pig-game-2.png)
 
-(./pig-game-3.png)
+![Screenshot pig-game](./pig-game-3.png)
