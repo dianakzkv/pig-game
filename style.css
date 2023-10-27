@@ -129,8 +129,11 @@ main {
   margin-right: 0.7rem;
 }
 
+.btn--info {
+  top: 2rem;
+}
 .btn--new {
-  top: 4rem;
+  top: 9rem;
 }
 .btn--roll {
   top: 39.3rem;
@@ -151,7 +154,7 @@ main {
 .dice {
   position: absolute;
   left: 50%;
-  top: 16.5rem;
+  top: 20.5rem;
   transform: translateX(-50%);
   height: 10rem;
   box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
@@ -164,4 +167,8 @@ main {
 .player--winner .name {
   font-weight: 700;
   color: #c7365f;
+}
+
+.hidden {
+  display: none;
 }
